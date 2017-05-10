@@ -1,4 +1,4 @@
-FROM ansibleplaybookbundle/apb-src-base
+FROM ansibleplaybookbundle/apb-base
 MAINTAINER Ansible Playbook Bundle Community
 
 LABEL "com.redhat.apb.version"="0.1.0"
