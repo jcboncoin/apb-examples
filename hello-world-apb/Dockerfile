@@ -13,7 +13,7 @@ IEFQQiB3aGljaCBkZXBsb3lzIEhlbGxvIFdvcmxkCiAgICBmcmVlOiBUcnVlCiAgICBtZXRhZGF0\
 YToKICAgICAgZGlzcGxheU5hbWU6IERlZmF1bHQKICAgICAgbG9uZ0Rlc2NyaXB0aW9uOiBUaGlz\
 IHBsYW4gZGVwbG95cyBhIFB5dGhvbiB3ZWIgYXBwbGljYXRpb24gZGlzcGxheWluZyBIZWxsbyBX\
 b3JsZAogICAgICBjb3N0OiAkMC4wMAogICAgcGFyYW1ldGVyczogW10K"
-LABEL "io.openshift.tags="apb"
+LABEL "io.openshift.tags"="apb"
 
 ADD playbooks /opt/apb/actions
 ADD roles /opt/ansible/roles
